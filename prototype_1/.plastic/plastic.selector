@@ -1,0 +1,4 @@
+repository "prototype_1@rnjema@cloud"
+  path "/"
+    br "/main"
+    co "/main"
